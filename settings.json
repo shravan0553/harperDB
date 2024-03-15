@@ -1,0 +1,6 @@
+{
+  "akamaiDomain": "walmart.com.hdb.akadns.net",
+  "akamaiDomainProperty": "getimagehint",
+  "staleToExpireBufferMS": 604800000,
+  "expirePercent": 1
+}

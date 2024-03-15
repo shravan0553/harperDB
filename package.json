@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "walmart-resource",
+  "version": "0.1.8",
+  "description": "A resource which will enable API caching for Walmart",
+  "main": "resources.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HarperDB, Inc.",
+  "license": "MIT",
+  "dependencies": {
+    "@szmarczak/http-timer": "^5.0.1",
+    "akamai-edgegrid": "^3.4.1",
+    "axios": "^1.5.0"
+  }
+}
